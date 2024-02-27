@@ -3,9 +3,9 @@
 const nextConfig = {
   env: {
     name: 'Bartekj Kasm registry',
-    description: 'Couple of custom KASM workspaces',
+    description: 'Custom KASM workspaces',
     icon: '/img/logo.svg',
-    listUrl: 'https://bartekj.github.io/kasm-registry/,
+    listUrl: 'https://bartekj.github.io/kasm-registry/',
     contactUrl: 'https://github.com/bartekj/kasm-registry/issues',
   },
   reactStrictMode: true,
